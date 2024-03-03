@@ -1,2 +1,17 @@
-output/*
-input/*
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.flv
+*.wmv
+*.webp
+*.mpg
+*.mpeg
+*.ogv
+*.3gp
+*.3g2
+*.ts
+*.m4v
+*.rm
+*.rmvb
