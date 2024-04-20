@@ -1,4 +1,4 @@
-# Intro
+# Introduction
 
 This project is all about converting your video files that are not supported by your TV(mostly) or devices to a supported format / codec all for free...
 
