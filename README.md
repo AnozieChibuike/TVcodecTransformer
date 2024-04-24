@@ -8,4 +8,4 @@ This project is all about converting your video files that are not supported by 
 
 - Run the script `python3 changeCodec.py`
 
-- Wait for the script to run finish, you should find the converted files in the output folder
+- Wait for the script to run finish, you should find the converted files in the output folder.
